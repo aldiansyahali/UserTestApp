@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UserTestApp</string>
+    <string name="txt_check">Check</string>
+    <string name="txt_Next">Next</string>
+    <string name="txt_Name">Name</string>
+    <string name="txt_palindrome">Palindrome</string>
+    <string name="txt_not_palindrome">Not Palindrome</string>
+</resources>
